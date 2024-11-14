@@ -1,0 +1,3 @@
+[submodule "droppers/windows/settimer_syscalls/src/rust_syscalls"]
+  path = droppers/windows/settimer_syscalls/src/rust_syscalls
+  url = https://github.com/janoglezcampos/rust_syscalls.git
